@@ -10,5 +10,6 @@ package javaapplication1;
  * @author gj591089
  */
 public class personne {
+    System.out.println();
     
 }
